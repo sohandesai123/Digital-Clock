@@ -1,0 +1,19 @@
+The File - Design1nmi(1).dsn is the design file that needs to be run on ISIS/Proteus. 
+The code to be entered to the processor (By right clicking it) - you need to enter a BIN file.
+You may obtain the bin file by -
+1)Compile the file - BasicDisp1nmi2(1).asm in Emu and obtain the bin file
+2)In the Emu folder - Emu8086 - MyBuild - The bin file for the above asm file is directly available
+
+The code is partially implemented since the course IC discontinued evaluatives for the code
+mid-development. The code succesfully displays time (not AM/PM) and updates most components of 
+the time. 
+
+The Design is accurate. Implementing this design + adding an 8284 to obtain CLK signals and 
+RESET will give you complete marks for the ON PAPER DESIGN component unless the design question 
+has been modified. 
+
+The remainder of the code may be developed and modified in accordance to the subroutines already written.
+
+
+
+
